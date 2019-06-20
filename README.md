@@ -1,2 +1,0 @@
-# Matplotlib-homework
-Matplotlib Homework
